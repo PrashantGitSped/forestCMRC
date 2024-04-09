@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a66374a2.css",
+    "main.js": "/static/js/main.ba9cd1ce.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/trophy.png": "/static/media/trophy.cbff523f278df039819d.png",
+    "static/media/forestIcon.png": "/static/media/forestIcon.a980ec2f2d8f2f8f4fbf.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a66374a2.css.map": "/static/css/main.a66374a2.css.map",
+    "main.ba9cd1ce.js.map": "/static/js/main.ba9cd1ce.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66374a2.css",
+    "static/js/main.ba9cd1ce.js"
+  ]
+}
