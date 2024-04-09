@@ -31,7 +31,7 @@ app.use("/api/products", productRouter)
 const adminProductRouter = require('./routes/adminProduct.routes.js')
 app.use("/api/admin/products", adminProductRouter)
 
-const cartRouter = require('./routes/cart.Routes.js')
+const cartRouter = require('./routes/cart.routes.js')
 app.use("/api/cart", cartRouter)
 
 const cartItemRouter = require('./routes/cartItem.routes.js')
